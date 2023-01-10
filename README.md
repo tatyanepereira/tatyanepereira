@@ -26,6 +26,3 @@ Olá! Eu sou a Tatiane Pereira!
 ![Snake animation](https://github.com/tatyanepereira/tatyanepereira/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-  
-
