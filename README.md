@@ -1,4 +1,8 @@
-Olá! Eu sou a Tatiane Pereira!
+`const Taty = {
+    pronouns: "she" | "her",    
+    code: [Javascript, React, HTML, CSS, Python, C#, Java],    
+    askMeAbout: ["reading, "music", "maternity"],    
+};`
 
 <div align="center">
   <a href="https://github.com/tatyanepereira">
