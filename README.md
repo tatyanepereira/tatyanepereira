@@ -1,9 +1,12 @@
-`const Taty = {
+### Olá! 👋
+
+~~~javascript`
+const Taty = {
     pronouns: "she" | "her",    
     code: [Javascript, React, HTML, CSS, Python, C#, Java],    
     askMeAbout: ["reading, "music", "maternity"],    
 };`
-
+~~~~
 <div align="center">
   <a href="https://github.com/tatyanepereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatyanepereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
