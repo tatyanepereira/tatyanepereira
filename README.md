@@ -4,7 +4,7 @@
 const Taty = {
     pronouns: "she" | "her",    
     code: [Javascript, React, HTML, CSS, Python, C#, Java],    
-    askMeAbout: ["reading, "music", "maternity", "tecnology],    
+    askMeAbout: ["reading, "running", "maternity", "tecnology],    
 };
 ~~~~
 
